@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkfinance_tracker=self.webpackChunkfinance_tracker||[]).push([[8],{2008:(e,c,a)=>{a.r(c),a.d(c,{default:()=>n});const n={}}}]);
+//# sourceMappingURL=8.d555c859.chunk.js.map
