@@ -1,6 +1,7 @@
 {
-  "short_name": "Shivam Fin Tracker",
-  "name": "Shivam Finance Tracker",
+  "short_name": "Finance",
+  "name": "Shivam Sharma — Finance Tracker",
+  "description": "Personal finance tracker with AI insights, budget tracking, and live charts.",
   "icons": [
     {
       "src": "favicon.ico",
@@ -10,16 +11,21 @@
     {
       "src": "logo192.png",
       "type": "image/png",
-      "sizes": "192x192"
+      "sizes": "192x192",
+      "purpose": "any maskable"
     },
     {
       "src": "logo512.png",
       "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "512x512",
+      "purpose": "any maskable"
     }
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "orientation": "portrait",
+  "theme_color": "#060810",
+  "background_color": "#060810",
+  "categories": ["finance", "productivity"],
+  "lang": "en-IN"
 }
